@@ -5,4 +5,4 @@ eureka:
     service-url:
       defaultZone: http://172.19.0.4:8761/eureka/
   instance:
-    hostname: localhost
+    hostname: 172.19.0.4
